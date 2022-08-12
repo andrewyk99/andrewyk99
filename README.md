@@ -7,4 +7,5 @@
 - Proficient in HTML, CSS, JavaScript, MySQL
 - Developing skills in React, Node.js
 - Plan to learn Python, Java, C#
+
 ![Andrew Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewyk99&show_icons=true&theme=dark)
