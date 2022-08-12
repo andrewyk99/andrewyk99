@@ -9,3 +9,6 @@
 - Plan to learn Python, Java, C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewyk99&hide=handlebars&theme=dark)](https://github.com/andrewyk99/github-readme-stats)
+
+### Acknowledgements
+Stat box and themes is credited to [Anurag Hazara](https://github.com/anuraghazra)
